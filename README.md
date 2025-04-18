@@ -1,4 +1,9 @@
-# EDA para Tomada de Decisão (Sr. João)
+<h1 align="center">EDA para Tomada de Decisão (Sr. João)</h1>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/478c8ee3-0ce0-470c-9abc-a96e2fd2d1de" width="600"/>
+</p>
+
 
 Este projeto é uma análise exploratória de dados (EDA) utilizando Python e bibliotecas como Pandas, Matplotlib e Seaborn, com foco nas vendas de quatro lojas. O desafio foi proposto pela Alura, com o objetivo de aplicar conhecimentos de Data Science em um cenário de e-commerce.
 
@@ -50,3 +55,8 @@ A análise forneceu insights importantes sobre o desempenho de cada loja, inclui
 - Preferências dos clientes por categoria
 - Avaliações e satisfação do cliente
 
+
+# 📌 Observações
+
+- Os dados foram fornecidos pela Alura como parte de um desafio de ciência de dados.
+- O foco está na interpretação dos dados e apresentação visual de maneira clara e objetiva.
