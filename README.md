@@ -1,4 +1,4 @@
-# 🛍️ Análise de Vendas de Quatro Lojas
+# 🛍️ Análise de Vendas para Tomada de Decisão do Sr. João
 
 Este projeto é uma análise exploratória de dados (EDA) utilizando Python e bibliotecas como Pandas, Matplotlib e Seaborn, com foco nas vendas de quatro lojas. O desafio foi proposto pela Alura, com o objetivo de aplicar conhecimentos de Data Science em um cenário de e-commerce.
 
@@ -50,8 +50,3 @@ A análise forneceu insights importantes sobre o desempenho de cada loja, inclui
 - Preferências dos clientes por categoria
 - Avaliações e satisfação do cliente
 
-## 🚀 Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
