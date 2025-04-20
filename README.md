@@ -7,7 +7,7 @@
 
 Este projeto é uma análise exploratória de dados (EDA) utilizando Python e bibliotecas como Pandas, Matplotlib e Seaborn, com foco nas vendas de quatro lojas. O desafio foi proposto pela Alura, com o objetivo de aplicar conhecimentos de Data Science em um cenário de e-commerce.
 
-## 📊 Objetivo
+## 🎯 Objetivo 
 
 Realizar uma análise completa do desempenho de quatro lojas com base em um conjunto de dados contendo:
 
@@ -24,7 +24,7 @@ Realizar uma análise completa do desempenho de quatro lojas com base em um conj
 - Gráficos de pizza, barras e tabelas formatadas para apoiar a tomada de decisão.
 - Comparações detalhadas entre as lojas.
 
-## 🧰 Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 
 - Python 3
 - Pandas
@@ -32,7 +32,7 @@ Realizar uma análise completa do desempenho de quatro lojas com base em um conj
 - Seaborn
 - Jupyter Notebook
 
-## 📈 Principais Análises
+## 🔎 Principais Análises
 
 - **Faturamento**: cálculo do total por loja e comparação visual.
 - **Frete Médio**: análise do custo logístico por loja (mediana e média).
@@ -40,7 +40,7 @@ Realizar uma análise completa do desempenho de quatro lojas com base em um conj
 - **Produtos Mais e Menos Vendidos**: extração por frequência.
 - **Categorias de Produtos**: ranking das categorias com maior volume de vendas.
 
-## 🖼 Exemplos de Gráficos
+## 📊 Exemplos de Gráficos
 
 - Gráfico de barras com faturamento por loja
 - Gráfico de pizza com produtos mais vendidos
